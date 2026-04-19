@@ -27,7 +27,7 @@ with st.sidebar:
     st.write("---")
     menu = st.radio("EXPLORE", ["🏠 Home Feed", "🔍 URL Scanner", "👤 My Profile", "📢 Report Scam"])
     st.write("---")
-    st.caption("Developed by: Vedant, Satyam, & Rishabh")
+    st.caption("Developed by: Manmeet,Sanchiti,Megha,Rishabh & Vedant")
 
 # --- 3. PAGE LOGIC ---
 
